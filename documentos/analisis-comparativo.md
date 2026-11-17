@@ -6,8 +6,6 @@
 **Lenguajes de Programación**  
 **Implementación poliglota de un sistema de transporte**
 
-**Docente:** [Nombre del Docente]  
-
 **Integrantes del equipo:**
 - Jose Juan Carlos Verdi Baltazar
 - Camila Fernanda Villeda Mera
